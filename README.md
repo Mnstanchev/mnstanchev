@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Mnstanchev/mnstanchev/blob/master/devcard.svg" width="400" alt="Metody Stanchev's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/metodyStanchev/metodyStanchev/blob/master/devcard.svg" width="400" alt="Metody Stanchev's Dev Card"/></a>
 
 
 
