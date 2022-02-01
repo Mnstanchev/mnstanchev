@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mnstanchev/mnstanchev/blob/master/devcard.svg" width="400" alt="Metody Stanchev's Dev Card"/></a>
+
+
 <!--
 **Mnstanchev/mnstanchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
