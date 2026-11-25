@@ -1,1 +1,46 @@
-IyMjIEhpLCBJJ20gTWV0b2R5IFN0YW5jaGV2IPCfkYsKCkZ1bGwtc3RhY2sgZGV2ZWxvcGVyIGZvY3VzZWQgb24gVHlwZVNjcmlwdCwgTmV4dC5qcyBhbmQgTm9kZS5qcy4gSSBidWlsZCBhbmQgc2hpcCByZWFsIHByb2R1Y3RzIGVuZCB0byBlbmQg4oCUIGZyb20gZGF0YWJhc2Ugc2NoZW1hIHRvIGRlcGxveWVkIGZyb250ZW5kLgoKLSDwn5StIEN1cnJlbnRseSBidWlsZGluZyAqKltsYXVuZHJ5LW1hcnR5XShodHRwczovL2dpdGh1Yi5jb20vTW5zdGFuY2hldi9sYXVuZHJ5LW1hcnR5KSoqIChsYXVuZHJ5IHNlcnZpY2UgcGxhdGZvcm0pIGFuZCAqKltpbW90b3J5LmNvbV0oaHR0cHM6Ly9naXRodWIuY29tL01uc3RhbmNoZXYvaW1vdG9yeS5jb20pKiogKHByb3BlcnR5IGxpc3RpbmcgYmFja2VuZCkKLSDwn4yxIFdvcmtpbmcgd2l0aCBBSS1hc3Npc3RlZCBkZXZlbG9wbWVudCB3b3JrZmxvd3MsIE1DUCB0b29saW5nIGFuZCBhZ2VudCBvcmNoZXN0cmF0aW9uCi0g8J+SrCBBc2sgbWUgYWJvdXQgTmV4dC5qcywgUHJpc21hLCBQb3N0Z3JlU1FMIGFuZCBzaGlwcGluZyBzb2xvCi0g8J+TqyBGaW5kIG1lIG9uIFtkYWlseS5kZXZdKGh0dHBzOi8vYXBwLmRhaWx5LmRldi9tZXRvZHlTdGFuY2hldikKCi0tLQoKIyMjIyBUZWNoIHN0YWNrCgohW1R5cGVTY3JpcHRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVHlwZVNjcmlwdC0zMTc4QzY/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz10eXBlc2NyaXB0JmxvZ29Db2xvcj13aGl0ZSkKIVtKYXZhU2NyaXB0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0phdmFTY3JpcHQtRjdERjFFP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289amF2YXNjcmlwdCZsb2dvQ29sb3I9YmxhY2spCiFbTmV4dC5qc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9OZXh0LmpzLTAwMDAwMD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPW5leHRkb3RqcyZsb2dvQ29sb3I9d2hpdGUpCiFbUmVhY3RdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUmVhY3QtNjFEQUZCP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289cmVhY3QmbG9nb0NvbG9yPWJsYWNrKQohW05vZGUuanNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTm9kZS5qcy01RkEwNEU/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1ub2RlZG90anMmbG9nb0NvbG9yPXdoaXRlKQohW1ByaXNtYV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QcmlzbWEtMkQzNzQ4P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289cHJpc21hJmxvZ29Db2xvcj13aGl0ZSkKIVtQb3N0Z3JlU1FMXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1Bvc3RncmVTUUwtNDE2OUUxP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289cG9zdGdyZXNxbCZsb2dvQ29sb3I9d2hpdGUpCiFbU3RyaXBlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1N0cmlwZS02MzVCRkY/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1zdHJpcGUmbG9nb0NvbG9yPXdoaXRlKQohW1N3aWZ0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1N3aWZ0LUYwNTEzOD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPXN3aWZ0JmxvZ29Db2xvcj13aGl0ZSkKCi0tLQoKIyMjIyBGZWF0dXJlZCBwcm9qZWN0cwoKfCBQcm9qZWN0IHwgV2hhdCBpdCBpcyB8CnwtLS18LS0tfAp8ICoqW1RpY2tldHJdKGh0dHBzOi8vZ2l0aHViLmNvbS9NbnN0YW5jaGV2L2VudHJ5LXdvcmxkLXRpY2tldGluZy1wbGF0Zm9ybSkqKiB8IFJlYWwtdGltZSBldmVudCB0aWNrZXRpbmcgcGxhdGZvcm0g4oCUIE5leHQuanMgMTQsIENvbnZleCwgQ2xlcmssIFN0cmlwZSBDb25uZWN0LCBzbWFydCBxdWV1aW5nIGFuZCBRUiB0aWNrZXRzIHwKfCAqKltpbW90b3J5LmNvbV0oaHR0cHM6Ly9naXRodWIuY29tL01uc3RhbmNoZXYvaW1vdG9yeS5jb20pKiogfCBQcm9wZXJ0eSB3ZWJzaXRlIGJhY2tlbmQg4oCUIE5leHQuanMgMTUsIFByaXNtYSwgTmVvbiBQb3N0Z3JlU1FMLCBzZXJ2ZXJsZXNzLXJlYWR5IHwKfCAqKltsYXVuZHJ5LW1hcnR5XShodHRwczovL2dpdGh1Yi5jb20vTW5zdGFuY2hldi9sYXVuZHJ5LW1hcnR5KSoqIHwgTGF1bmRyeSBzZXJ2aWNlIG1hbmFnZW1lbnQgcGxhdGZvcm0gfAp8ICoqW01vbnN0ZXIgS2lsbGVyXShodHRwczovL2dpdGh1Yi5jb20vTW5zdGFuY2hldi9Nb25zdGVyLUtpbGxlci1Qcm9qZWN0KSoqIHwgQSBicm93c2VyIGdhbWUgd2l0aCBjb21iYXQgbWVjaGFuaWNzIGFuZCBib251cyBsaXZlcyB8CgotLS0KCjxwaWN0dXJlPgogIDxzb3VyY2UgbWVkaWE9IihwcmVmZXJzLWNvbG9yLXNjaGVtZTogZGFyaykiIHNyY3NldD0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPU1uc3RhbmNoZXYmc2hvd19pY29ucz10cnVlJmhpZGVfYm9yZGVyPXRydWUmY291bnRfcHJpdmF0ZT10cnVlJmluY2x1ZGVfYWxsX2NvbW1pdHM9dHJ1ZSZiZ19jb2xvcj0wMDAwMDAwMCZ0aXRsZV9jb2xvcj01OGE2ZmYmdGV4dF9jb2xvcj1jOWQxZDkmaWNvbl9jb2xvcj0xZjZmZWIiIC8+CiAgPHNvdXJjZSBtZWRpYT0iKHByZWZlcnMtY29sb3Itc2NoZW1lOiBsaWdodCkiIHNyY3NldD0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPU1uc3RhbmNoZXYmc2hvd19pY29ucz10cnVlJmhpZGVfYm9yZGVyPXRydWUmY291bnRfcHJpdmF0ZT10cnVlJmluY2x1ZGVfYWxsX2NvbW1pdHM9dHJ1ZSZiZ19jb2xvcj0wMDAwMDAwMCZ0aXRsZV9jb2xvcj0wOTY5ZGEmdGV4dF9jb2xvcj01NzYwNmEmaWNvbl9jb2xvcj0wOTY5ZGEiIC8+CiAgPGltZyB3aWR0aD0iNDklIiBhbHQ9IkdpdEh1YiBzdGF0cyIgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9TW5zdGFuY2hldiZzaG93X2ljb25zPXRydWUmaGlkZV9ib3JkZXI9dHJ1ZSZjb3VudF9wcml2YXRlPXRydWUmaW5jbHVkZV9hbGxfY29tbWl0cz10cnVlIiAvPgo8L3BpY3R1cmU+CjxwaWN0dXJlPgogIDxzb3VyY2UgbWVkaWE9IihwcmVmZXJzLWNvbG9yLXNjaGVtZTogZGFyaykiIHNyY3NldD0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9TW5zdGFuY2hldiZsYXlvdXQ9Y29tcGFjdCZoaWRlX2JvcmRlcj10cnVlJmJnX2NvbG9yPTAwMDAwMDAwJnRpdGxlX2NvbG9yPTU4YTZmZiZ0ZXh0X2NvbG9yPWM5ZDFkOSIgLz4KICA8c291cmNlIG1lZGlhPSIocHJlZmVycy1jb2xvci1zY2hlbWU6IGxpZ2h0KSIgc3Jjc2V0PSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGkvdG9wLWxhbmdzLz91c2VybmFtZT1NbnN0YW5jaGV2JmxheW91dD1jb21wYWN0JmhpZGVfYm9yZGVyPXRydWUmYmdfY29sb3I9MDAwMDAwMDAmdGl0bGVfY29sb3I9MDk2OWRhJnRleHRfY29sb3I9NTc2MDZhIiAvPgogIDxpbWcgd2lkdGg9IjM4JSIgYWx0PSJUb3AgbGFuZ3VhZ2VzIiBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3MvP3VzZXJuYW1lPU1uc3RhbmNoZXYmbGF5b3V0PWNvbXBhY3QmaGlkZV9ib3JkZXI9dHJ1ZSIgLz4KPC9waWN0dXJlPgo=
+### Hi, I'm Metody Stanchev 👋
+
+Full-stack developer focused on TypeScript, Next.js and Node.js. I build and ship real products end to end — from database schema to deployed frontend.
+
+- 🔭 Currently building **[laundry-marty](https://github.com/Mnstanchev/laundry-marty)** (laundry service platform) and **[imotory.com](https://github.com/Mnstanchev/imotory.com)** (property listing backend)
+- 🌱 Working with AI-assisted development workflows, MCP tooling and agent orchestration
+- 💬 Ask me about Next.js, Prisma, PostgreSQL and shipping solo
+- 📫 Find me on [daily.dev](https://app.daily.dev/metodyStanchev)
+
+---
+
+#### Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+---
+
+#### Featured projects
+
+| Project | What it is |
+|---|---|
+| **[Ticketr](https://github.com/Mnstanchev/entry-world-ticketing-platform)** | Real-time event ticketing platform — Next.js 14, Convex, Clerk, Stripe Connect, smart queuing and QR tickets |
+| **[imotory.com](https://github.com/Mnstanchev/imotory.com)** | Property website backend — Next.js 15, Prisma, Neon PostgreSQL, serverless-ready |
+| **[laundry-marty](https://github.com/Mnstanchev/laundry-marty)** | Laundry service management platform |
+| **[Monster Killer](https://github.com/Mnstanchev/Monster-Killer-Project)** | A browser game with combat mechanics and bonus lives |
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mnstanchev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mnstanchev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=0969da&text_color=57606a&icon_color=0969da" />
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mnstanchev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnstanchev&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnstanchev&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=57606a" />
+  <img width="38%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnstanchev&layout=compact&hide_border=true" />
+</picture>
